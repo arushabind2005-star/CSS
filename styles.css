@@ -1,13 +1,14 @@
 /* Q1. */
 p{
     color: blue;
-    background-color: rgb(184, 175, 175);
+    background-color: grey;
 }
 /* Q2 */
 .box{
     width: 200px;
     height: 100px;
     background-color: lightgray;
+    
 }
 
 #title{
@@ -18,8 +19,8 @@ p{
 div{
     width: 250px;
     margin: 20px;
-    padding: 3px solid black;
-    border: 15px;
+    border: 3px solid black;
+    padding: 15px;
     box-sizing: border-box;
 }
 /* Q5 */
@@ -33,3 +34,13 @@ body{
     font-family: 'Poppins', 'Roboto', Arial, sans-serif;
     font-size: 16px;
 }
+/* Q7 */
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+}
+/* Q8 */
