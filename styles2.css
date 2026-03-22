@@ -17,3 +17,15 @@ div{
     display: inline-block;
 }
 /* Q4 */
+.invisible1{
+    visibility: hidden;
+}
+.invisible2{
+    display: none;
+}
+/* Q5 */
+.box101{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(255,0,0,0.5);
+}
