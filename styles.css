@@ -50,3 +50,15 @@ p{
 h1{
     background-color: rgb(0,0,0);
 }
+/* Q9 */
+.card{
+    padding: 10px 20px;
+    margin: 15px 30px;
+}
+/* Q10 */
+.box {
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+    border: 1px solid black;
+}
