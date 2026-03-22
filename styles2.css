@@ -29,3 +29,16 @@ div{
     height: 200px;
     background-color: rgba(255,0,0,0.5);
 }
+/* Q6 */
+.container{
+    opacity: 0.5;
+}
+.box102{
+    background-color: red;
+}
+.box103{
+    background-color: blue;
+}
+.box104{
+    background-color: green;
+}
