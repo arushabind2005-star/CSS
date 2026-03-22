@@ -3,3 +3,17 @@ span{
     width: 100px;
     display: inline;
 }
+/* Q2 */
+div{
+    width: 200px;
+    height: 50px;
+    display: block;
+}
+/* Q3 */
+.box{
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+}
+/* Q4 */
