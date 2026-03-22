@@ -15,3 +15,9 @@ p{
     text-align: center;
 }
 /* Q3 */
+div{
+    width: 250px;
+    margin: 20px;
+    padding: 3px solid black;
+    border: 15px;
+}
