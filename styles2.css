@@ -42,3 +42,16 @@ div{
 .box104{
     background-color: green;
 }
+/* Q7 */
+.parent{
+    width: 400px;
+    background-color: blueviolet;
+}
+.child{
+    width: 50%;
+    background-color: yellow;
+}
+/* Q8 */
+
+/* Q9 */
+/* Q10 */
