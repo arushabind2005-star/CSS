@@ -14,10 +14,17 @@ p{
     color: green;
     text-align: center;
 }
-/* Q3 */
+/* Q3 and Q4 */
 div{
     width: 250px;
     margin: 20px;
     padding: 3px solid black;
     border: 15px;
+    box-sizing: border-box;
+}
+/* Q5 */
+h1{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
 }
