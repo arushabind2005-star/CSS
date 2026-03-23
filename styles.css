@@ -1,13 +1,13 @@
 /* Q1. */
 p{
     color: blue;
-    background-color: grey;
+    background-color: lightgrey;
 }
 /* Q2 */
 .box{
     width: 200px;
     height: 100px;
-    background-color: lightgray;
+    background-color: lightblue;
     
 }
 
