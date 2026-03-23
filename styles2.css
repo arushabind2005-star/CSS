@@ -2,12 +2,14 @@
 span{
     width: 100px;
     display: inline;
+    border: 2px solid black;
 }
 /* Q2 */
 div{
     width: 200px;
     height: 50px;
     display: block;
+    border: 2px solid black;
 }
 /* Q3 */
 .box{
@@ -19,15 +21,18 @@ div{
 /* Q4 */
 .invisible1{
     visibility: hidden;
+    border: 2px solid black;
 }
 .invisible2{
     display: none;
+    border: 2px solid black;
 }
 /* Q5 */
 .box101{
     width: 200px;
     height: 200px;
     background-color: rgba(255,0,0,0.5);
+    border: 2px solid black;
 }
 /* Q6 */
 .container{
@@ -35,37 +40,46 @@ div{
 }
 .box102{
     background-color: red;
+    border: 2px solid black;
 }
 .box103{
     background-color: blue;
+    border: 2px solid black;
 }
 .box104{
     background-color: green;
+    border: 2px solid black;
 }
 /* Q7 */
 .parent{
     width: 400px;
     background-color: blueviolet;
+    border: 2px solid black;
 }
 .child{
     width: 50%;
     background-color: yellow;
+    border: 2px solid black;
 }
 /* Q8 */
 .box105{
     font-size: 20px;
     padding: 2em;
+    border: 2px solid black;
 }
 /* Q9 */
 html{
     font-size: 16px;
+    border: 2px solid black;
 }
 .box106{
     font-size: 2rem;
+    border: 2px solid black;
 }
 /* Q10 */
 .box107{
     height: 300px;
     background-size: cover;
     text-align: center;
+    border: 2px solid black;
 }
