@@ -4,8 +4,9 @@ span{
     display: inline;
     border: 2px solid black;
 }
+
 /* Q2 */
-div{
+.c1{
     width: 200px;
     height: 50px;
     display: block;
